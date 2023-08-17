@@ -1,5 +1,6 @@
 package com.springboot.customerapi.entity;
 
+
 import jakarta.persistence.*;
 
 @Entity
@@ -66,3 +67,4 @@ public class Customer {
     }
 
 }
+
